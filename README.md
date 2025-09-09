@@ -53,7 +53,7 @@ A collection of my practical hands-on projects and write-ups.
 
 | Project | Description | Tools |
 | :--- | :--- | :--- |
-| [**🔍 Network Scanner**](https://github.com/R2id7/Network-Scanner) | A Python script that automates network reconnaissance using Nmap. | `Python`, `Nmap` |
+| [**🔍 Phonebook_Project**](https://github.com/R2id7/Phonebook_Project) | A Phone book created whit Python. | `Python`,|
 | [**📝 THM CTF Write-ups**](https://github.com/R2id7/TryHackMe-Writeups) | Detailed solutions and explanations for TryHackMe challenge rooms. | `Markdown`, `Kali Linux` |
 | [**🔐 Password Manager**](https://github.com/R2id7/Password-Manager) | A CLI-based tool for secure password storage and management. | `Python`, `Cryptography` |
 | [**🏠 AD Home Lab**](https://github.com/R2id7/AD-Security-Lab) | A virtualized lab to practice Active Directory attack and defense techniques. | `VirtualBox`, `PowerShell` |
