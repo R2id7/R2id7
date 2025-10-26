@@ -24,7 +24,7 @@ I'm a highly motivated student building a strong foundation in cybersecurity thr
 
   <!-- Security Tools -->
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" title="Wireshark"/>
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="Nmap" width="40" height="40" title="Nmap"/>
+  <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/168/h/90/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756548499532" alt="Nmap" width="40" height="40" title="Nmap"/>
   <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40" title="Metasploit"/>
   <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="Burp Suite" width="40" height="40" title="Burp Suite"/>
   <img src="https://www.vectorlogo.zone/logos/john_the_ripper/john_the_ripper-icon.svg" alt="John the Ripper" width="40" height="40" title="John the Ripper"/>
