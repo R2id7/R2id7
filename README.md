@@ -8,31 +8,7 @@ I'm a highly motivated student building a strong foundation in cybersecurity thr
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <!-- Programming & Scripting -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="SQL"/>
 
-  <!-- Operating Systems -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux (Kali)"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" title="Windows"/>
-
-  <!-- Virtualization -->
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40" title="VirtualBox"/>
-  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40" title="Vagrant"/>
-
-  <!-- Security Tools -->
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" title="Wireshark"/>
-  <img src="https://cdn.brandfetch.io/idCqcY6yWr/w/168/h/90/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756548499532" alt="Nmap" width="40" height="40" title="Nmap"/>
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40" title="Metasploit"/>
-  <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="Burp Suite" width="40" height="40" title="Burp Suite"/>
-  <img src="https://www.vectorlogo.zone/logos/john_the_ripper/john_the_ripper-icon.svg" alt="John the Ripper" width="40" height="40" title="John the Ripper"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Hydra" width="40" height="40" title="Hydra"/>
-
-  <!-- Version Control -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
-</p>
 
 ---
 
@@ -55,7 +31,7 @@ A collection of my practical hands-on projects and write-ups.
 | :--- | :--- | :--- |
 | [**🔍 Phonebook_Project**](https://github.com/R2id7/Phonebook_Project) | A Phone book created whit Python. | `Python`,|
 | [**📝 Hash Identifier**](https://github.com/R2id7/Hash-Identifier) | A powerful and enhanced hash identification tool. | `Python`, `Algorithms`, `Hashing` |
-| [**🔐 Password Manager**](https://github.com/R2id7/Password-Manager) | A CLI-based tool for secure password storage and management. | `Python`, `Cryptography` |
+| [**🏢 Startup Network Design**](https://github.com/R2id7/StartUp-Network-Config) | A fully functional small business network designed and implemented using Cisco Packet Tracer. This project simulates a real startup company environment with department segmentation, centralized server services, and secure remote management. | `Cisco`, `Packet Tracer` |
 | [**🏠 AD Home Lab**](https://github.com/R2id7/AD-Security-Lab) | A virtualized lab to practice Active Directory attack and defense techniques. | `VirtualBox`, `PowerShell` |
 
 ---
